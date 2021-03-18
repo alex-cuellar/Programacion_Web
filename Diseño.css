@@ -1,0 +1,12 @@
+* {   
+        font-family: "Tahoma", Times, serif;
+}
+
+#recuadro {
+    width: 600px;
+    height: 350px;
+    border: 120px solid #a7becc;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: #a7becc;
+}
